@@ -1,4 +1,4 @@
-# 🖥️ React Admin Dashboard
+# 🖥️ Admin Dashboard ReactAPP
 
 A modern, responsive Admin Dashboard built with **React.js** and **Material-UI** to manage and visualize data efficiently.  
 This project demonstrates frontend design skills, UI/UX best practices, and integration of reusable components for real-world applications.
