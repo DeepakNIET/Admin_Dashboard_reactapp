@@ -59,13 +59,9 @@ npm start
 
 App will be running at **[http://localhost:3000/](http://localhost:3000/)**
 
-
 ## 🎯 Learning Outcomes
 
 * Building responsive web applications with React and Material-UI.
 * Implementing theme toggling and reusable components.
 * Structuring a scalable React project.
 * Integrating charts and data grids for analytics.
-
-Do you want me to do that next?
-```
